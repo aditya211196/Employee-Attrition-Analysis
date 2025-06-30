@@ -7,7 +7,7 @@ XYZ Company, a growing organization, faced a persistent 15% employee attrition r
 **Objective**
 To analyze employee attrition trends, identify key factors contributing to high turnover, and present actionable insights through a Power BI dashboard—validated with SQL—to support strategic HR decisions.
 
-🛠 Tools & Technologies
+Tools & Technologies
 Python (Pandas, Seaborn) – For data cleaning, EDA, and preprocessing
 
 Power BI – For developing interactive dashboards and visual storytelling
